@@ -1,6 +1,5 @@
 #Working and compiling, striped partition
-#Koray Tekin, Muastafa Cihan 
-#   2018400213   2018400228
+#Koray Tekin
 
 
 
